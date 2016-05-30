@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            InspectSRC
+tagline:          'A Web Development Blog.'
+description:      'A Web Development Blog.'
+url:              http://abhisheksoni27.github.io/blog
+baseurl:          /
+
+author:
+  name:           'Abhishek Soni'
+  url:            https://twitter.com/abhisheksoni27
+
+paginate:         5
+
+github:
+  repo:           https://github.com/abhisheksoni27
